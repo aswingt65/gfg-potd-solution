@@ -6,12 +6,17 @@ Each solution includes a cleaned problem statement, approach, complexity analysi
 
 ## Solution index
 
+<!-- SOLUTION_INDEX_START -->
 | Date | Problem | Difficulty | Description |
 |---|---|---|---|
+| 2026-08-31 | [Minimum Cost for n Characters](solutions/2026-08-31-minimum-cost-for-n-characters/README.md) | — | Dynamic programming computes the cheapest way to reach every length up to n. |
 | 2026-08-30 | [Marks from Ranks](solutions/2026-08-30-marks-from-ranks/README.md) | Medium | Find the valid mark at each requested rank across sorted, non-overlapping intervals. |
+<!-- SOLUTION_INDEX_END -->
 
 ### Latest solution
 
-**[Marks from Ranks →](solutions/2026-08-30-marks-from-ranks/README.md)**
+<!-- LATEST_SOLUTION_START -->
+**[Minimum Cost for n Characters](solutions/2026-08-31-minimum-cost-for-n-characters/README.md)**
 
-Build cumulative interval sizes, then use binary search to answer each rank query efficiently.
+Dynamic programming computes the cheapest way to reach every length up to n.
+<!-- LATEST_SOLUTION_END -->
